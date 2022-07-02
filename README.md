@@ -2,6 +2,6 @@
 
 
 # Credits:
-  @ajlkn from html5up.net 
+  @ajlkn from html5up.net!
   
-  Unsplash for their images.
+  Unsplash for their images!
